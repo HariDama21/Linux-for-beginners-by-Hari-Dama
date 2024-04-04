@@ -89,7 +89,7 @@
 
 # *7.System Updates and Upgrades:*
 
-  - FUnderstand the importance of keeping the system up-to-date and learn how to perform updates and upgrades.
+  - Understand the importance of keeping the system up-to-date and learn how to perform updates and upgrades.
    - Regular system updates and upgrades ensure security patches and bug fixes are applied to the system.
 
 **Commands:**
